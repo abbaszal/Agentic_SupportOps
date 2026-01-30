@@ -10,6 +10,29 @@ A full-stack web interface built with FastAPI and Streamlit allows users to run 
 
 ---
 
+## Quick Examples
+
+
+
+### Ticket example
+
+> I've encountered a data loss issue with my Earbuds Air. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them? Please take time to ask if there is something else I can do. I've checked for software updates, and my Earbuds Air is already running the latest version.
+
+
+![Ticket](figs/1.png)
+
+---
+
+
+### Free text example
+
+> I bought a laptop from you and, after two months, it has a display issue. I want to know the conditions for returning it and also the process for refunding, or the possible warranty coverage to exchange it for a new one.
+
+
+![Free text](figs/2.png)
+
+---
+
 ## What this repo demonstrates
 
 * **SQL + Database**: SQLite schema, seeded customers/orders/tickets, and safe read-only SQL tools.
@@ -265,28 +288,5 @@ Open:
 
 * [http://localhost:8501](http://localhost:8501)
 
----
-
-## Examples
-
-
-
-### Ticket example
-
-> I've encountered a data loss issue with my Earbuds Air. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them? Please take time to ask if there is something else I can do. I've checked for software updates, and my Earbuds Air is already running the latest version.
-
-
-![Ticket](figs/1.png)
-
----
-
-
-### Free text example
-
-> I bought a laptop from you and, after two months, it has a display issue. I want to know the conditions for returning it and also the process for refunding, or the possible warranty coverage to exchange it for a new one.
-
-
-![Free text](figs/2.png)
-
-
+ ---
 
