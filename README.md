@@ -275,9 +275,9 @@ Open:
 
 > I've encountered a data loss issue with my Earbuds Air. All the files and documents seem to have disappeared. Can you guide me on how to retrieve them? Please take time to ask if there is something else I can do. I've checked for software updates, and my Earbuds Air is already running the latest version.
 
-```md
-![Ticket](figs/3.png)
-```
+
+![Ticket](figs/1.png)
+
 ---
 
 
@@ -285,8 +285,8 @@ Open:
 
 > I bought a laptop from you and, after two months, it has a display issue. I want to know the conditions for returning it and also the process for refunding, or the possible warranty coverage to exchange it for a new one.
 
-```md
+
 ![Free text](figs/2.png)
-```
+
 
 
