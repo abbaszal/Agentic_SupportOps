@@ -6,7 +6,7 @@
 
 Agentic Support System RAG SQL is an end-to-end AI platform that connects structured, SQL-based operational data with retrieval-augmented generation and large language model reasoning to automate and review support decision workflows.
 The system pulls real-time ticket, customer, and order information from a relational database, grounds its responses in internal policy documents through semantic search, and generates structured, machine-readable actions along with clear, customer-facing replies.
-A full-stack web interface built with FastAPI and Streamlit allows users to run workflows interactively, visualize reasoning traces, and monitor overall system performance.
+A full-stack web interface built with FastAPI and Streamlit allows users to run workflows interactively, visualize reasoning traces.
 
 ---
 
