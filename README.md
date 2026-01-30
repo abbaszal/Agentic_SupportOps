@@ -67,7 +67,7 @@ pip install -r requirements.txt
 The dataset is already included in this repository under:
 
 ```
-dat/raw/tickets_clean.csv
+dat/raw/
 ```
 
 This file contains a **pre-cleaned collection of historical customer support tickets** (subjects, message bodies, customer emails, priority, status, and categories).
